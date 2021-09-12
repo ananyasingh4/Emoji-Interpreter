@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: #d6ad60;
+}
+body {
+  padding: 3rem;
+  background-color: #272640;
+}
+.App h1 {
+  font-size: 3rem;
+  text-shadow: 2px 2px #fff;
+}
+.App input {
+  font-size: 1rem;
+  height: 2rem;
+  border: none;
+}
